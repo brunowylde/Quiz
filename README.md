@@ -9,3 +9,4 @@
 - Todo armazenamento é usando localStorage
 - As perguntas avançam após serem respondidas, com um timing de 3s
 - Cada resposta correta, o usuário ganha 100 pontos
+- Para executar, basta abrir o index.html na barra do navegador, e boa sorte!
