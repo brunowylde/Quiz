@@ -18,6 +18,7 @@ let questions = [
 		choice2:  '3',
 		choice3:  '4',
 		choice4:  '7',
+		choice5:  '9',
 		answer: 3,
 	},	{
 		question: 'Quem foi o melhor jogador do mundo em 2020?',
@@ -25,6 +26,7 @@ let questions = [
 		choice2:  'Messi',
 		choice3:  'C. Ronaldo',
 		choice4:  'Neymar',
+		choice5:  'Eden Hazard',
 		answer: 1,
 	},{
 		question: 'De qual desenho é o Goku?',
@@ -32,6 +34,7 @@ let questions = [
 		choice2:  'Dragon Ball',
 		choice3:  'Jackie Chan',
 		choice4:  'Yu-Gi-Oh!',
+		choice5:  'Death Note',
 		answer: 2,
 	},{
 		question: 'Em que ano nasceu Leonardo Da Vinci?',
@@ -39,6 +42,7 @@ let questions = [
 		choice2:  '1328',
 		choice3:  '1511',
 		choice4:  '1452',
+		choice5:  '1860',
 		answer: 4,
 	}
 ]
